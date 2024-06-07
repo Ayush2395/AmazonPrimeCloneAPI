@@ -1,6 +1,5 @@
 ﻿# AmazonPrimeClone
-
-The project was generated using the [Clean.Architecture.Solution.Template](https://github.com/jasontaylordev/AmazonPrimeClone) version 8.0.5.
+This is the API project for Amazon Prime, for learning the .NET Core.
 
 ## Build
 
